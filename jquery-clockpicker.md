@@ -1,7 +1,7 @@
 # ClockPicker with Instruction Labels
 
 A clock-style timepicker for Bootstrap (or jQuery).
-[Documentation and examples](http://weareoutman.github.io/clockpicker/).
+[Documentation and examples](https://masteraamie.github.io/jquery-clockpicker).
 
 ![Screenshot](https://github.com/masteraamie/jquery-clockpicker-with-labels/blob/main/hours-label.png?raw=true)
 ![Screenshot](https://github.com/masteraamie/jquery-clockpicker-with-labels/blob/main/minutes-label.png?raw=true)
