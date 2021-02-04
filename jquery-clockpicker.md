@@ -3,8 +3,9 @@
 A clock-style timepicker for Bootstrap (or jQuery).
 [Documentation and examples](http://weareoutman.github.io/clockpicker/).
 
-![Screenshot](http://weareoutman.github.io/clockpicker/assets/images/screenshot-1.png)
-![clockpicker-12-hour-screenshot](https://cloud.githubusercontent.com/assets/5218249/3613434/03da9888-0db8-11e4-8bdb-dbabb5e91e5c.png)
+![Screenshot](https://github.com/masteraamie/jquery-clockpicker-with-labels/blob/main/hours-label.png?raw=true)
+![Screenshot](https://github.com/masteraamie/jquery-clockpicker-with-labels/blob/main/minutes-label.png?raw=true)
+
 ## Browser support
 
 All major browsers are supported, including IE 9+. It should look and behave well enough in IE 8.
